@@ -28,6 +28,10 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+This repository is inspired by these sites:
+* https://docs.nestjs.com/recipes/swagger#migration-to-40
+* https://dev.to/itnext/adding-live-documentation-to-your-rest-api-with-swagger-and-nest-js-211e
+
 ## Installation
 
 ```bash
